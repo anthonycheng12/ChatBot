@@ -7,7 +7,8 @@ Created by: Anthony Cheng
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://imgur.com/a/a0do2">ChatBot Walkthrough</a>
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/9QmXw"><a href="//imgur.com/9QmXw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
