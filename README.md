@@ -7,7 +7,7 @@ Created by: Anthony Cheng
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://imgflip.com/gif/250i20"><img src="https://i.imgflip.com/250i20.gif" title="made at imgflip.com"/></a>
+<a href="https://imgur.com/a/a0do2">ChatBot Walkthrough</a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
