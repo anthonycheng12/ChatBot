@@ -7,7 +7,7 @@ Created by: Anthony Cheng
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/9QmXw' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://imgflip.com/gif/250i20"><img src="https://i.imgflip.com/250i20.gif" title="made at imgflip.com"/></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
