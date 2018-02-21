@@ -5,7 +5,7 @@ Created by: Anthony Cheng
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the ChatBot
 
 <img src='https://i.imgur.com/KNFXPVI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
