@@ -14,6 +14,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This is a ChatBot made in Java that uses a two dimensional array that holds the inputs and potential outputs of the system. We make it non case sensitive by changing all letters to lowercase and deleting all the white space with the trim function. 
+This is a ChatBot made in Java that uses a two dimensional array that holds the inputs and potential outputs of the system. We make it non case sensitive by changing all letters to lowercase and deleting all the white space with the trim function. I used the Java Swing which is a GUI widget toolkit to create the interface and application for the ChatBot.
 
-
+   
